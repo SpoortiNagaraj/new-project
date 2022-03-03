@@ -5,7 +5,7 @@ import java.util.ArrayList;
 public class BinaryGap {
 	public int solution(int N)
 	{
-	
+	System.out.println("hi");
 String a = Integer.toBinaryString(N);
 ArrayList<Integer> w=new ArrayList<Integer>();
 for(int i=0; i<a.length();i++)
